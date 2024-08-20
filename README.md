@@ -13,8 +13,4 @@ Codename Engine(https://nightly.link/FNF-CNE-Devs/CodenameEngine/workflows/windo
 各キャラのストラムプロパティの"Vocal Suffix"から入っているボイスを選択できる("-bf"など)
 
 キャラエディタ
-背景はふざけているけど真面目に使える
-
-また落ち着いたら戻ってきます
-ただ色々しんどいのでもうその頃にはSPNv3完成しちゃってるかも()
-よろしくお願いします。
+背景はふざけているけど真面目に使えるから頑張ってください！
