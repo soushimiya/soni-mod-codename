@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfspn.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf idle left0000" x="2" y="2" width="696" height="650"/>
+	<SubTexture name="gf idle left0001" x="2" y="2" width="696" height="650"/>
+	<SubTexture name="gf idle left0002" x="700" y="2" width="628" height="581" frameX="-37" frameY="-29" frameWidth="696" frameHeight="650"/>
+	<SubTexture name="gf idle left0003" x="700" y="2" width="628" height="581" frameX="-37" frameY="-29" frameWidth="696" frameHeight="650"/>
+	<SubTexture name="gf idle left0004" x="1330" y="2" width="639" height="587" frameX="-17" frameY="-30" frameWidth="696" frameHeight="650"/>
+	<SubTexture name="gf idle left0005" x="1971" y="2" width="615" height="563" frameX="-41" frameY="-39" frameWidth="696" frameHeight="650"/>
+	<SubTexture name="gf idle left0006" x="2" y="654" width="625" height="574" frameX="-32" frameY="-36" frameWidth="696" frameHeight="650"/>
+	<SubTexture name="gf idle left0007" x="2" y="654" width="625" height="574" frameX="-32" frameY="-36" frameWidth="696" frameHeight="650"/>
+	<SubTexture name="gf idle left0008" x="2" y="654" width="625" height="574" frameX="-32" frameY="-36" frameWidth="696" frameHeight="650"/>
+	<SubTexture name="gf idle left0009" x="2" y="654" width="625" height="574" frameX="-32" frameY="-36" frameWidth="696" frameHeight="650"/>
+	<SubTexture name="gf idle left0010" x="2" y="654" width="625" height="574" frameX="-32" frameY="-36" frameWidth="696" frameHeight="650"/>
+	<SubTexture name="gf idle left0011" x="2" y="654" width="625" height="574" frameX="-32" frameY="-36" frameWidth="696" frameHeight="650"/>
+	<SubTexture name="gf idle left0012" x="2" y="654" width="625" height="574" frameX="-32" frameY="-36" frameWidth="696" frameHeight="650"/>
+	<SubTexture name="gf idle left0013" x="2" y="654" width="625" height="574" frameX="-32" frameY="-36" frameWidth="696" frameHeight="650"/>
+	<SubTexture name="gf idle left0014" x="2" y="654" width="625" height="574" frameX="-32" frameY="-36" frameWidth="696" frameHeight="650"/>
+	<SubTexture name="gf idle right0000" x="629" y="654" width="675" height="617" frameX="-11" frameY="0" frameWidth="686" frameHeight="617"/>
+	<SubTexture name="gf idle right0001" x="629" y="654" width="675" height="617" frameX="-11" frameY="0" frameWidth="686" frameHeight="617"/>
+	<SubTexture name="gf idle right0002" x="1306" y="654" width="657" height="611" frameX="-9" frameY="-6" frameWidth="686" frameHeight="617"/>
+	<SubTexture name="gf idle right0003" x="1306" y="654" width="657" height="611" frameX="-9" frameY="-6" frameWidth="686" frameHeight="617"/>
+	<SubTexture name="gf idle right0004" x="1965" y="654" width="660" height="611" frameX="0" frameY="-6" frameWidth="686" frameHeight="617"/>
+	<SubTexture name="gf idle right0005" x="2" y="1273" width="657" height="611" frameX="-3" frameY="-6" frameWidth="686" frameHeight="617"/>
+	<SubTexture name="gf idle right0006" x="661" y="1273" width="657" height="611" frameX="-3" frameY="-6" frameWidth="686" frameHeight="617"/>
+	<SubTexture name="gf idle right0007" x="661" y="1273" width="657" height="611" frameX="-3" frameY="-6" frameWidth="686" frameHeight="617"/>
+	<SubTexture name="gf idle right0008" x="661" y="1273" width="657" height="611" frameX="-3" frameY="-6" frameWidth="686" frameHeight="617"/>
+	<SubTexture name="gf idle right0009" x="661" y="1273" width="657" height="611" frameX="-3" frameY="-6" frameWidth="686" frameHeight="617"/>
+	<SubTexture name="gf idle right0010" x="661" y="1273" width="657" height="611" frameX="-3" frameY="-6" frameWidth="686" frameHeight="617"/>
+	<SubTexture name="gf idle right0011" x="661" y="1273" width="657" height="611" frameX="-3" frameY="-6" frameWidth="686" frameHeight="617"/>
+	<SubTexture name="gf idle right0012" x="661" y="1273" width="657" height="611" frameX="-3" frameY="-6" frameWidth="686" frameHeight="617"/>
+	<SubTexture name="gf idle right0013" x="661" y="1273" width="657" height="611" frameX="-3" frameY="-6" frameWidth="686" frameHeight="617"/>
+	<SubTexture name="gf idle right0014" x="661" y="1273" width="657" height="611" frameX="-3" frameY="-6" frameWidth="686" frameHeight="617"/>
+</TextureAtlas>

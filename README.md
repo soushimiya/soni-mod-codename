@@ -1,2 +1,2 @@
-# soni-mod-codename
- Soni Mod but fucking good yooooo!!!!!
+# Friday Night Funkin' - Soni's Party Night v3 Sourcecode
+(basiclly that not an sourcecode lmao..)

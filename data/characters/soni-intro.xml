@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character holdTime="6.1" x="190" camx="20" y="320" scale="1.05" camy="-10" color="#0022FF">
+	<anim anim="soni idle" name="idle"/>
+	<anim x="14" y="33" anim="soni up0" name="singUP"/>
+	<anim x="-15" anim="soni down0" name="singDOWN"/>
+	<anim x="36" y="29" anim="soni left0" name="singLEFT"/>
+	<anim x="-64" y="49" anim="soni right0" name="singRIGHT"/>
+</character>

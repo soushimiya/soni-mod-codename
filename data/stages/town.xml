@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7" name="town" folder="stages/town/">
+	<sprite name="bg1"               x="-300" y="-290"   sprite="sky"       scroll="0" scale="1.1"/>
+	<sprite name="bg2"               x="470" y="-100"   sprite="sun"       scroll="0.2" scale="1"/>
+	<sprite name="bg3"               x="-370" y="-220"   sprite="cloud1"       scroll="0.23" scale="1"/>
+	<sprite name="bg4"               x="-300" y="-230"   sprite="town2"       scroll="0.3" scale="1"/>
+	<sprite name="bg5"               x="-300" y="-230"   sprite="bridge"       scroll="0.4" scale="0.8"/>
+	<sprite name="bg6"               x="-300" y="-230"   sprite="town"       scroll="0.6" scale="0.8"/>
+	<sprite name="bg7"               x="-420" y="-140"   sprite="floor"       scroll="1" scale="0.85"/>
+	<sprite name="bg8"               x="-420" y="-140"   sprite="tree"       scroll="1" scale="0.75"/>
+	<girlfriend x="1000" y="400"/>
+	<dad x="670" y="380"/>
+	<boyfriend x="1500" y="400"/>
+	<sprite name="overlay"               x="-420" y="-140"   sprite="overlay"       scroll="1" scale="0.85" alpha="0.2"/>
+</stage>

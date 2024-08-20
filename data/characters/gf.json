@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "gf idle left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-14
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "gf idle right",
+			"indices": []
+		}
+	],
+	"vocals_file": "gf",
+	"no_antialiasing": false,
+	"image": "characters/gfspn",
+	"position": [
+		40,
+		110
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-220,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.05,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character scale="1.1" icon="bf" x="40" y="60" sprite="gfspn">
+	<anim x="0" loop="false" y="0" fps="24" anim="gf idle left" name="danceLeft"/>
+	<anim x="-17" loop="false" y="-14" fps="24" anim="gf idle right" name="danceRight"/>
+</character>
